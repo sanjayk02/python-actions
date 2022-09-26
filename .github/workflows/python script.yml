@@ -14,4 +14,4 @@ jobs:
       with:
         python-version: "3.10"
     - name: run python script
-      run:	python .github/worklows/First.py
+      run:  github/worklows/First.py
